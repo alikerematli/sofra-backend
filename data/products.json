@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": {
+      "en": "Salad Plate",
+      "it": "Piatto da Insalata"
+    },
+    "description": {
+      "en": "13' Salad Plate",
+      "it": "Piatto da Insalata 13'"
+    },
+    "category": "plates",
+    "image": "/src/assets/images/Salata.png",
+    "dimensions": "33 cm",
+    "material": "Melamine",
+    "createdAt": "2025-05-19T11:11:07.503Z"
+  },
+  {
+    "id": "2",
+    "name": {
+      "en": "Round Plate",
+      "it": "Piatto Rotondo"
+    },
+    "description": {
+      "en": "8.75 Round Plate Pink",
+      "it": "Piatto Rotondo Rosa 8.75"
+    },
+    "category": "plates",
+    "image": "/src/assets/images/8.75 Round Plate Pembe.png",
+    "dimensions": "22 cm",
+    "material": "Melamine",
+    "createdAt": "2025-05-19T11:11:07.503Z"
+  },
+  {
+    "id": "3",
+    "name": {
+      "en": "Oval Salad Plate",
+      "it": "Piatto da Insalata Ovale"
+    },
+    "description": {
+      "en": "33 cm Oval Salad Plate",
+      "it": "Piatto da Insalata Ovale 33 cm"
+    },
+    "category": "plates",
+    "image": "/src/assets/images/Yeni Oval Büyük Salata.png",
+    "dimensions": "33 cm",
+    "material": "Melamine",
+    "createdAt": "2025-05-19T11:11:07.503Z"
+  }
+]

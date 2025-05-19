@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": {
+      "en": "Plates",
+      "it": "Piatti"
+    },
+    "slug": "plates"
+  },
+  {
+    "id": "2",
+    "name": {
+      "en": "Bowls",
+      "it": "Ciotole"
+    },
+    "slug": "bowls"
+  },
+  {
+    "id": "3",
+    "name": {
+      "en": "Accessories",
+      "it": "Accessori"
+    },
+    "slug": "accessories"
+  }
+]
